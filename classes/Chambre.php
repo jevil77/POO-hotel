@@ -191,18 +191,6 @@ class Chambre {
 
 
 
-    /*public function  afficherReservation()  {
-        $result = "<h1>Réservations de $this</h1>";
- 
-        foreach($this->reservations as $reservation){
- 
-           $result.= $reservation."<br>";
-        }
- 
-        return $result;
- 
- 
-    }*/
 
 
 
