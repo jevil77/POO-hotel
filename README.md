@@ -15,6 +15,6 @@ J'ai créé plusieurs fonctions permettant d'afficher :
 
 * les statuts des chambres d'hôtel
 
-## **Class et objets
+## **Class et objets**
 
 La création de class connectées entre elles permet de manipuler les différentes propriétées des class et des objets.
