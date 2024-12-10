@@ -190,6 +190,9 @@ class Chambre {
 
 
 
+    public function test(){
+        return "bonjour";
+    }
 
 
 
